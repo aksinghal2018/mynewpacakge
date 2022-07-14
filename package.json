@@ -1,0 +1,21 @@
+{
+  "name": "@akshaysinghal2018/mynewpackage",
+  "version": "1.0.0",
+  "description": "new package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aksinghal2018/mynewpacakge.git"
+  },
+  "keywords": [],
+  "author": "akshaysinghal2018",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aksinghal2018/mynewpacakge/issues"
+  },
+  
+  "homepage": "https://github.com/aksinghal2018/mynewpacakge#readme"
+}
