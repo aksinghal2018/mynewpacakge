@@ -1,6 +1,6 @@
 {
-  "name": "@akshaysinghal/mynewpackage",
-  "version": "1.0.0",
+  "name": "@aksinghal2018/mynewpackage",
+  "version": "1.0.1",
   "description": "new package",
   "main": "index.js",
   "scripts": {
@@ -11,10 +11,10 @@
     "url": "https://github.com/aksinghal2018/mynewpacakge.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@mynewpackage"
+    "registry": "https://npm.pkg.github.com/"
   },
   "keywords": [],
-  "author": "akshaysinghal",
+  "author": "akshaysinghal2018",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/aksinghal2018/mynewpacakge/issues"
